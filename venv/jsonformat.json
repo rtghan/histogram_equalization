@@ -1,0 +1,424 @@
+{
+    "result": {
+        "tags": [
+            {
+                "confidence": 84.3266525268555,
+                "tag": {
+                    "en": "sidewalk"
+                }
+            },
+            {
+                "confidence": 41.6051940917969,
+                "tag": {
+                    "en": "city"
+                }
+            },
+            {
+                "confidence": 41.4530639648438,
+                "tag": {
+                    "en": "street"
+                }
+            },
+            {
+                "confidence": 34.2537536621094,
+                "tag": {
+                    "en": "snow"
+                }
+            },
+            {
+                "confidence": 34.2508316040039,
+                "tag": {
+                    "en": "architecture"
+                }
+            },
+            {
+                "confidence": 31.2066993713379,
+                "tag": {
+                    "en": "building"
+                }
+            },
+            {
+                "confidence": 30.7394485473633,
+                "tag": {
+                    "en": "road"
+                }
+            },
+            {
+                "confidence": 27.9888038635254,
+                "tag": {
+                    "en": "urban"
+                }
+            },
+            {
+                "confidence": 23.9604568481445,
+                "tag": {
+                    "en": "travel"
+                }
+            },
+            {
+                "confidence": 23.8461627960205,
+                "tag": {
+                    "en": "winter"
+                }
+            },
+            {
+                "confidence": 23.1389904022217,
+                "tag": {
+                    "en": "trees"
+                }
+            },
+            {
+                "confidence": 22.7903022766113,
+                "tag": {
+                    "en": "tree"
+                }
+            },
+            {
+                "confidence": 21.0643711090088,
+                "tag": {
+                    "en": "sky"
+                }
+            },
+            {
+                "confidence": 20.5519924163818,
+                "tag": {
+                    "en": "cars"
+                }
+            },
+            {
+                "confidence": 19.8668746948242,
+                "tag": {
+                    "en": "buildings"
+                }
+            },
+            {
+                "confidence": 19.4988708496094,
+                "tag": {
+                    "en": "town"
+                }
+            },
+            {
+                "confidence": 17.8642883300781,
+                "tag": {
+                    "en": "landscape"
+                }
+            },
+            {
+                "confidence": 17.4161720275879,
+                "tag": {
+                    "en": "park"
+                }
+            },
+            {
+                "confidence": 16.3697509765625,
+                "tag": {
+                    "en": "cold"
+                }
+            },
+            {
+                "confidence": 16.0376625061035,
+                "tag": {
+                    "en": "old"
+                }
+            },
+            {
+                "confidence": 15.0565185546875,
+                "tag": {
+                    "en": "house"
+                }
+            },
+            {
+                "confidence": 15.0105714797974,
+                "tag": {
+                    "en": "car"
+                }
+            },
+            {
+                "confidence": 13.1954708099365,
+                "tag": {
+                    "en": "weather"
+                }
+            },
+            {
+                "confidence": 12.3632078170776,
+                "tag": {
+                    "en": "traffic"
+                }
+            },
+            {
+                "confidence": 12.3132638931274,
+                "tag": {
+                    "en": "cityscape"
+                }
+            },
+            {
+                "confidence": 12.251033782959,
+                "tag": {
+                    "en": "brick"
+                }
+            },
+            {
+                "confidence": 12.1268224716187,
+                "tag": {
+                    "en": "scene"
+                }
+            },
+            {
+                "confidence": 11.9289960861206,
+                "tag": {
+                    "en": "historic"
+                }
+            },
+            {
+                "confidence": 11.6671419143677,
+                "tag": {
+                    "en": "transportation"
+                }
+            },
+            {
+                "confidence": 11.5614566802979,
+                "tag": {
+                    "en": "tourism"
+                }
+            },
+            {
+                "confidence": 11.4690713882446,
+                "tag": {
+                    "en": "frozen"
+                }
+            },
+            {
+                "confidence": 10.9513998031616,
+                "tag": {
+                    "en": "structure"
+                }
+            },
+            {
+                "confidence": 10.9195232391357,
+                "tag": {
+                    "en": "season"
+                }
+            },
+            {
+                "confidence": 10.6745958328247,
+                "tag": {
+                    "en": "wheeled vehicle"
+                }
+            },
+            {
+                "confidence": 10.4983673095703,
+                "tag": {
+                    "en": "lamp"
+                }
+            },
+            {
+                "confidence": 10.3583507537842,
+                "tag": {
+                    "en": "historical"
+                }
+            },
+            {
+                "confidence": 10.2083387374878,
+                "tag": {
+                    "en": "day"
+                }
+            },
+            {
+                "confidence": 10.1621561050415,
+                "tag": {
+                    "en": "vehicle"
+                }
+            },
+            {
+                "confidence": 10.1555595397949,
+                "tag": {
+                    "en": "ice"
+                }
+            },
+            {
+                "confidence": 9.98204040527344,
+                "tag": {
+                    "en": "center"
+                }
+            },
+            {
+                "confidence": 9.88895225524902,
+                "tag": {
+                    "en": "intersection"
+                }
+            },
+            {
+                "confidence": 9.84708309173584,
+                "tag": {
+                    "en": "history"
+                }
+            },
+            {
+                "confidence": 9.69013214111328,
+                "tag": {
+                    "en": "houses"
+                }
+            },
+            {
+                "confidence": 9.60369110107422,
+                "tag": {
+                    "en": "frost"
+                }
+            },
+            {
+                "confidence": 9.53409671783447,
+                "tag": {
+                    "en": "england"
+                }
+            },
+            {
+                "confidence": 9.31252098083496,
+                "tag": {
+                    "en": "famous"
+                }
+            },
+            {
+                "confidence": 9.28491401672363,
+                "tag": {
+                    "en": "stone"
+                }
+            },
+            {
+                "confidence": 9.25547313690186,
+                "tag": {
+                    "en": "church"
+                }
+            },
+            {
+                "confidence": 9.24686336517334,
+                "tag": {
+                    "en": "tourist"
+                }
+            },
+            {
+                "confidence": 9.22319412231445,
+                "tag": {
+                    "en": "exterior"
+                }
+            },
+            {
+                "confidence": 9.05595016479492,
+                "tag": {
+                    "en": "square"
+                }
+            },
+            {
+                "confidence": 8.95802879333496,
+                "tag": {
+                    "en": "tower"
+                }
+            },
+            {
+                "confidence": 8.93339061737061,
+                "tag": {
+                    "en": "people"
+                }
+            },
+            {
+                "confidence": 8.70835018157959,
+                "tag": {
+                    "en": "forest"
+                }
+            },
+            {
+                "confidence": 8.49054527282715,
+                "tag": {
+                    "en": "outdoors"
+                }
+            },
+            {
+                "confidence": 8.45999240875244,
+                "tag": {
+                    "en": "clouds"
+                }
+            },
+            {
+                "confidence": 8.41514110565186,
+                "tag": {
+                    "en": "outdoor"
+                }
+            },
+            {
+                "confidence": 8.39033222198486,
+                "tag": {
+                    "en": "row"
+                }
+            },
+            {
+                "confidence": 8.34628391265869,
+                "tag": {
+                    "en": "wood"
+                }
+            },
+            {
+                "confidence": 8.13173675537109,
+                "tag": {
+                    "en": "landmark"
+                }
+            },
+            {
+                "confidence": 8.02844715118408,
+                "tag": {
+                    "en": "light"
+                }
+            },
+            {
+                "confidence": 7.8827109336853,
+                "tag": {
+                    "en": "seasonal"
+                }
+            },
+            {
+                "confidence": 7.86137247085571,
+                "tag": {
+                    "en": "pavement"
+                }
+            },
+            {
+                "confidence": 7.81864070892334,
+                "tag": {
+                    "en": "lantern"
+                }
+            },
+            {
+                "confidence": 7.42719745635986,
+                "tag": {
+                    "en": "window"
+                }
+            },
+            {
+                "confidence": 7.36116361618042,
+                "tag": {
+                    "en": "streetcar"
+                }
+            },
+            {
+                "confidence": 7.18956995010376,
+                "tag": {
+                    "en": "conveyance"
+                }
+            },
+            {
+                "confidence": 7.17611265182495,
+                "tag": {
+                    "en": "religion"
+                }
+            },
+            {
+                "confidence": 7.11194133758545,
+                "tag": {
+                    "en": "night"
+                }
+            }
+        ]
+    },
+    "status": {
+        "text": "",
+        "type": "success"
+    }
+}
